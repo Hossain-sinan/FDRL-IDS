@@ -1,0 +1,41 @@
+feature
+min_seg_size_forward
+PSH Flag Count
+Init_Win_bytes_forward
+Init_Win_bytes_backward
+Flow Duration
+ACK Flag Count
+Destination Port
+Bwd Packet Length Min
+Bwd Packet Length Mean
+Fwd IAT Total
+Fwd IAT Std
+Bwd IAT Total
+Flow IAT Max
+Average Packet Size
+Packet Length Mean
+Fwd IAT Max
+Bwd Header Length
+Packet Length Std
+Min Packet Length
+URG Flag Count
+SYN Flag Count
+Down/Up Ratio
+Fwd PSH Flags
+act_data_pkt_fwd
+Flow IAT Std
+Idle Mean
+Bwd Packet Length Std
+Bwd Packet Length Max
+Idle Min
+Fwd Packet Length Min
+Total Backward Packets
+Max Packet Length
+Fwd Packet Length Max
+Flow IAT Mean
+Fwd Packet Length Mean
+Bwd IAT Max
+Idle Max
+Fwd Header Length
+Fwd Packet Length Std
+Total Fwd Packets
