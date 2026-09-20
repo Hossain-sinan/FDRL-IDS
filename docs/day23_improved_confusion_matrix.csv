@@ -1,0 +1,9 @@
+,BENIGN,DoS,DDoS,Brute Force,Web Attack,Infiltration,Botnet,Port Scan
+BENIGN,209331,42,7,0,19,0,11,96
+DoS,15,19359,0,0,0,0,0,0
+DDoS,2,0,12799,0,0,0,0,0
+Brute Force,3,0,0,911,1,0,0,0
+Web Attack,127,0,0,0,88,0,0,0
+Infiltration,2,0,0,0,0,2,0,0
+Botnet,59,0,0,0,0,0,136,0
+Port Scan,1,4,0,0,1,0,0,9063
