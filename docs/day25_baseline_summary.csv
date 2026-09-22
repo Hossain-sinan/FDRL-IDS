@@ -1,0 +1,33 @@
+item,value
+Project,FDRL-IDS
+Dataset,CICIDS2017
+Original records,2830743
+Cleaned records,2520798
+Label-processed records,2520787
+Selected features,20
+Number of classes,8
+Train samples,2016629
+Validation samples,252079
+Test samples,252079
+Model,XGBoost
+Final configuration,Config B
+max_depth,6
+learning_rate,0.05
+n_estimators,200
+subsample,0.8
+colsample_bytree,0.8
+random_state,42
+tree_method,hist
+SMOTE,No
+Class weighting,No
+Accuracy,0.9984528659666215
+Macro Precision,0.9647641823994659
+Macro Recall,0.8249924092874255
+Macro F1,0.8743213704418897
+Weighted Precision,0.9983617818661217
+Weighted Recall,0.9984528659666215
+Weighted F1,0.9983371592926158
+Metric reproducibility,Verified
+Prediction reproducibility,Verified
+Different test predictions in reproducibility test,0
+Baseline status,COMPLETE / FROZEN
